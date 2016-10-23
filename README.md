@@ -23,7 +23,8 @@ Swift comes with five different "assertions"; see the first section
 
 [RxSwift][] is Swift port of Rx.  It unifies KVO observing,
 notifications, async operations and streams under the same
-abstraction.
+abstraction.  See the transcript of the [talk by Max
+Alexander][rxswift-intro] for a tutorial.
 
 ## Coding Conventions
 
@@ -46,4 +47,5 @@ You will have to run this each time you update Xcode.
 [blog]: https://developer.apple.com/swift/blog/
 [assertions]: https://www.mikeash.com/pyblog/friday-qa-2016-03-04-swift-asserts.html
 [rxswift]: https://github.com/ReactiveX/RxSwift
+[rxswift-intro]: https://realm.io/news/slug-max-alexander-functional-reactive-rxswift/
 [template-gist]: https://gist.github.com/mx4492/81da9f3c363bc1c44f4e
